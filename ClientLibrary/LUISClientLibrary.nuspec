@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
+    <id>willemodendaal.LuisClient</id>
+    <version>2.0.0</version>
+    <title>LUISClient with extra fields (forked)</title>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
     <licenseUrl>http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
     <projectUrl>https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis</projectUrl>
     <iconUrl>https://www.luis.ai/Content/images/luis_darker_logo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>User-configurable hostname.</releaseNotes>
+    <description>LUISClient .NET SDK with fields not included in the standard Microsoft Luis library (https://github.com/Microsoft/Cognitive-LUIS-Windows).</description>
+    <releaseNotes>Added AlteredQuery field that is not present in the standard LuisClient.</releaseNotes>
     <copyright>Copyright (c) 2016</copyright>
     <tags>Microsoft Cognitive Services LUIS</tags>
     <dependencies>
