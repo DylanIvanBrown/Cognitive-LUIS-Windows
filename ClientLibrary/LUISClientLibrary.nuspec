@@ -5,14 +5,14 @@
     <version>2.0.0</version>
     <title>LUISClient with extra fields (forked)</title>
     <authors>Microsoft</authors>
-    <owners>Microsoft</owners>
+    <owners>Microsoft,willemodendaal</owners>
     <licenseUrl>http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
-    <projectUrl>https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis</projectUrl>
+    <projectUrl>https://github.com/willemodendaal/Cognitive-LUIS-Windows</projectUrl>
     <iconUrl>https://www.luis.ai/Content/images/luis_darker_logo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>LUISClient .NET SDK with fields not included in the standard Microsoft Luis library (https://github.com/Microsoft/Cognitive-LUIS-Windows).</description>
     <releaseNotes>Added AlteredQuery field that is not present in the standard LuisClient.</releaseNotes>
-    <copyright>Copyright (c) 2016</copyright>
+    <copyright>Copyright (c) 2017</copyright>
     <tags>Microsoft Cognitive Services LUIS</tags>
     <dependencies>
     	<dependency id="Newtonsoft.Json" version="9.0.1" />
