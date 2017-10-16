@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>willemodendaal.LuisClient</id>
-    <version>2.4.0</version>
+    <version>2.6.0</version>
     <title>LUISClient with extra fields (forked)</title>
     <authors>Microsoft</authors>
     <owners>Microsoft,willemodendaal</owners>
